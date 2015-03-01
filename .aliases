@@ -145,7 +145,3 @@ alias nap="pmset sleepnow"
 
 # Restart the computer
 alias restart="sudo shutdown -r now"
-
-# Show and unshow hidden files
-alias showall="defaults write com.apple.finder AppleShowAllFiles YES; killall Finder /System/Library/CoreServices/Finder.app"
-alias hideall="defaults write com.apple.finder AppleShowAllFiles NO; killall Finder /System/Library/CoreServices/Finder.app"

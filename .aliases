@@ -141,7 +141,7 @@ alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resource
 alias reload="exec $SHELL -l"
 
 # Put the computer to sleep
-alias sleep="pmset sleepnow"
+alias nap="pmset sleepnow"
 
 # Restart the computer
 alias restart="sudo shutdown -r now"

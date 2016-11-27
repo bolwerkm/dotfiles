@@ -48,4 +48,4 @@ complete -W "NSGlobalDomain" defaults;
 complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes SystemUIServer Terminal Twitter" killall;
 
 # Specify your defaults in this environment variable
-export HOMEBREW_CASK_OPTS="--appdir=/Applications --caskroom=/usr/local/Caskroom"
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"

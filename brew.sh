@@ -41,11 +41,11 @@ brew install wget --with-iri
 #brew install narwhal
 
 # Install more recent versions of some OS X tools.
-#brew install vim --override-system-vi
-#brew install homebrew/dupes/grep
-#brew install homebrew/dupes/openssh
-#brew install homebrew/dupes/screen
-#brew install homebrew/php/php55 --with-gmp
+brew install vim --override-system-vi
+brew install homebrew/dupes/grep
+brew install homebrew/dupes/openssh
+brew install homebrew/dupes/screen
+brew install homebrew/php/php55 --with-gmp
 
 # Install font tools.
 #brew tap bramstein/webfonttools
@@ -80,9 +80,9 @@ brew install wget --with-iri
 # Install other useful binaries.
 brew install ack
 #brew install exiv2
-brew install git
+#brew install git
 #brew install imagemagick --with-webp
-#brew install lua
+brew install lua
 #brew install lynx
 #brew install p7zip
 #brew install pigz

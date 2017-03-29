@@ -146,5 +146,8 @@ alias nap="pmset sleepnow"
 # Restart the computer
 alias restart="sudo shutdown -r now"
 
-#Start TeamViewer from Applications
+# Start TeamViewer from Applications
 alias tv="open -a TeamViewer"
+
+# Kill Touchbar
+alias touchbar="killall ControlStrip"

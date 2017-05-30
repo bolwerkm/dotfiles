@@ -151,3 +151,9 @@ alias tv="open -a TeamViewer"
 
 # Kill Touchbar
 alias touchbar="killall ControlStrip"
+
+# Flush DNS
+alias flush="sudo killall -HUP mDNSResponder"
+
+# Edit /etc/hosts
+alias hosts="sudo nano /etc/hosts"
